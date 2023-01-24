@@ -17,10 +17,14 @@ To use the Apple Shortcut, follow these steps:
 
  1. Download the shortcut from the github repository.
  2. Double click and add the shortcut to your library.
+ 
     <img width="427" alt="Screenshot 2023-01-24 at 10 42 32 AM" src="https://user-images.githubusercontent.com/71588718/214216981-c59d1624-3508-4378-be32-3eaf514620a8.png">
+    
  3. In the app double click the shortcut (not the play button).
  5. In the script you can change the specific date . The format to the date is :  MMDDHHmmYY .  where "M" is for month and "m" is for minute.
+ 
     <img width="606" alt="Screenshot 2023-01-24 at 10 45 50 AM" src="https://user-images.githubusercontent.com/71588718/214217148-ab15b0cd-573d-4ae7-ac0f-2a0d73e6af36.png">
+    
  6. You can change the application buy replacing the /Applications/Infuse.app with your application's location.
  7. If you face any issue while launching ( especially if the launch is slow you can try and change the " sleep 6 " code , here 6 stands for 6seconds of delay befor the date is reverted back to current date .
  8. Give a name to the shortcut, and tap "Done" to save it.
